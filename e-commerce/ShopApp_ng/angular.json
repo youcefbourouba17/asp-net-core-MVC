@@ -37,7 +37,6 @@
             ],
             "styles": [
               "@angular/material/prebuilt-themes/indigo-pink.css",
-              "src/assets/fonts/icomoon/style.css",
               "src/assets/css/magnific-popup.css",
               "src/assets/css/owl.carousel.min.css",
               "src/assets/css/aos.css",
@@ -119,8 +118,6 @@
             ],
             "styles": [
               "@angular/material/prebuilt-themes/indigo-pink.css",
-              "@angular/material/prebuilt-themes/indigo-pink.css",
-              "src/assets/fonts/icomoon/style.css",
               "src/assets/css/magnific-popup.css",
               "src/assets/css/owl.carousel.min.css",
               "src/assets/css/aos.css",
